@@ -1,6 +1,7 @@
 # 🤖 AI Study
 
 > 인공지능 / 머신러닝 공부를 기록하는 저장소
+> [이론공부 스터디 로그 바로가기](https://github.com/doyeon789/Study-AI/blob/main/StudyLog.md)
 
 ---
 
