@@ -1,5 +1,11 @@
 # 📚 Study Log
 
+### 2026-04-20
+
+👉 [머신러닝(6) - 성능평가/검증](https://velog.io/@doyeon789/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D6-%EC%84%B1%EB%8A%A5%ED%8F%89%EA%B0%80%EA%B2%80%EC%A6%9D)
+
+**내용** : 머신러닝 성능평가 및 성능검증
+
 ### 2026-04-19
 
 👉 [머신러닝(5) - 데이터 전처리](https://velog.io/@doyeon789/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC)
