@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-04-21
+
+👉 [머신러닝(7) - 비지도 학습](https://velog.io/@doyeon789/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D7-%EB%B9%84%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5)
+
+**내용** : 머신러닝 비지도학습 -> (군집화, K-means, 계층적 군집)
+
+---
+
 ### 2026-04-20
 
 👉 [머신러닝(6) - 성능평가/검증](https://velog.io/@doyeon789/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D6-%EC%84%B1%EB%8A%A5%ED%8F%89%EA%B0%80%EA%B2%80%EC%A6%9D)
