@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-04-24
+
+👉 [딥러닝(3) - MLP](https://velog.io/@doyeon789/%EB%94%A5%EB%9F%AC%EB%8B%9D3-MLP)
+
+**내용** : MLP, 순전파 역전파
+
+---
+
 ### 2026-04-23
 
 👉 [딥러닝(2) - 퍼셉트론, Neural Network](https://velog.io/@doyeon789/%EB%94%A5%EB%9F%AC%EB%8B%9D2-MLP)
