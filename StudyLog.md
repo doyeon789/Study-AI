@@ -1,6 +1,14 @@
 # 📚 Study Log
 
-### 2026-04-21
+### 2026-04-23
+
+👉 [딥러닝(2) - 퍼셉트론, Neural Network](https://velog.io/@doyeon789/%EB%94%A5%EB%9F%AC%EB%8B%9D2-MLP)
+
+**내용** : 딥러닝의 작동원리를 알기위한 퍼셉트론, 뉴럴 네트워크
+
+---
+
+### 2026-04-22
 
 👉 [딥러닝(1) - 기본 개념](https://velog.io/@doyeon789/%EB%94%A5%EB%9F%AC%EB%8B%9D1-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
 
