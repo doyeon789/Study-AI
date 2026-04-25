@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-04-26
+
+👉 [딥러닝(4) - MLP 성능향상](https://velog.io/@doyeon789/%EB%94%A5%EB%9F%AC%EB%8B%9D4-MLP-%EC%84%B1%EB%8A%A5%ED%96%A5%EC%83%81)
+
+**내용** : 활성화 함수, 옵티마이저, 규제
+
+---
+
 ### 2026-04-24
 
 👉 [딥러닝(3) - MLP](https://velog.io/@doyeon789/%EB%94%A5%EB%9F%AC%EB%8B%9D3-MLP)
