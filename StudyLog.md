@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-04-27
+
+👉 [CNN(1) - 기본 개념, MLP의 한계](https://velog.io/@doyeon789/CNN1-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-MLP%EC%9D%98-%ED%95%9C%EA%B3%84)
+
+**내용** : CNN의 기본 개념, MLP의 한계
+
+---
+
 ### 2026-04-26
 
 👉 [딥러닝(4) - MLP 성능향상](https://velog.io/@doyeon789/%EB%94%A5%EB%9F%AC%EB%8B%9D4-MLP-%EC%84%B1%EB%8A%A5%ED%96%A5%EC%83%81)
