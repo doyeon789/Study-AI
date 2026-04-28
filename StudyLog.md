@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-04-28
+
+👉 [CNN(2) - 동작설명](https://velog.io/@doyeon789/CNN2-%EB%8F%99%EC%9E%91%EC%84%A4%EB%AA%85)
+
+**내용** : CNN의 작동방식 설명
+
+---
+
 ### 2026-04-27
 
 👉 [CNN(1) - 기본 개념, MLP의 한계](https://velog.io/@doyeon789/CNN1-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90-MLP%EC%9D%98-%ED%95%9C%EA%B3%84)
