@@ -2,6 +2,14 @@
 
 ### 2026-04-28
 
+👉 [CNN(3) - 데이터 브릿지, 최종 분류](https://velog.io/@doyeon789/CNN3-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B8%8C%EB%A6%BF%EC%A7%80-%EC%B5%9C%EC%A2%85-%EB%B6%84%EB%A5%98)
+
+**내용** : CNN의 데이터 브릿지, 최종분류, 마지막 정리 및 다양한 CNN 모델 소개
+
+---
+
+### 2026-04-28
+
 👉 [CNN(2) - 동작설명](https://velog.io/@doyeon789/CNN2-%EB%8F%99%EC%9E%91%EC%84%A4%EB%AA%85)
 
 **내용** : CNN의 작동방식 설명
