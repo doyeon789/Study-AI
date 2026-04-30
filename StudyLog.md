@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-04-30
+
+👉 [CNN(4) - 전이학습](https://velog.io/@doyeon789/CNN4-%EC%A0%84%EC%9D%B4%ED%95%99%EC%8A%B5)
+
+**내용** : CNN의 전이학습의 필요 이유와 방법
+
+---
+
 ### 2026-04-29
 
 👉 [CNN(3) - 데이터 브릿지, 최종 분류](https://velog.io/@doyeon789/CNN3-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B8%8C%EB%A6%BF%EC%A7%80-%EC%B5%9C%EC%A2%85-%EB%B6%84%EB%A5%98)
