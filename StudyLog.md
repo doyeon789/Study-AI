@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-05-1
+
+👉 [CNN(5) - 모델 성능 향상](https://velog.io/@doyeon789/CNN5-%EB%AA%A8%EB%8D%B8-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)
+
+**내용** : CNN의 모델 성능 향상 기법
+
+---
+
 ### 2026-04-30
 
 👉 [CNN(4) - 전이학습](https://velog.io/@doyeon789/CNN4-%EC%A0%84%EC%9D%B4%ED%95%99%EC%8A%B5)
