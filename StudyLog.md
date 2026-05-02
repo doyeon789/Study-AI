@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-05-3
+
+👉 [RNN(1) - 기본 개념](https://velog.io/@doyeon789/RNN1-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
+
+**내용** : MLP복습, RNN기본 개념 정리
+
+---
+
 ### 2026-05-1
 
 👉 [CNN(5) - 모델 성능 향상](https://velog.io/@doyeon789/CNN5-%EB%AA%A8%EB%8D%B8-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81)
