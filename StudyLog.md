@@ -2,6 +2,14 @@
 
 ### 2026-05-3
 
+👉 [RNN(2) - 순환 구조와 다양한 설계](https://velog.io/@doyeon789/RNN-celll)
+
+**내용** : RNN의 순환 구조 이해와, 다양한 설계 방법
+
+---
+
+### 2026-05-3
+
 👉 [RNN(1) - 기본 개념](https://velog.io/@doyeon789/RNN1-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
 
 **내용** : MLP복습, RNN기본 개념 정리
