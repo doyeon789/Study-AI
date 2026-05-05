@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-05-05
+
+👉 [RNN(3) - RNN 수식](https://velog.io/@doyeon789/RNN3-RNN의-수식)
+
+**내용** : RNN의 수식
+
+---
+
 ### 2026-05-04
 
 👉 [RNN(2) - 순환 구조와 다양한 설계](https://velog.io/@doyeon789/RNN-celll)
