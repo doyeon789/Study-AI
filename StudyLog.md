@@ -1,6 +1,14 @@
 # 📚 Study Log
 
-### 2026-05-05
+### 2026-05-07
+
+👉 [RNN(4) - BQTT, 한계](https://velog.io/@doyeon789/RNN4-BPTT-%ED%95%9C%EA%B3%84)
+
+**내용** : RNN의 학습 방식과 한계 
+
+---
+
+### 2026-05-06
 
 👉 [RNN(3) - RNN 수식](https://velog.io/@doyeon789/RNN3-RNN의-수식)
 
