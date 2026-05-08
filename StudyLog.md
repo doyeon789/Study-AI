@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-05-08
+
+👉 [LSTM(1) - 기본개념](https://velog.io/@doyeon789/LSTM1-%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90)
+
+**내용** : RNN의 한계(복습)과 LSTM의 기본 개념 
+
+---
+
 ### 2026-05-07
 
 👉 [RNN(4) - BQTT, 한계](https://velog.io/@doyeon789/RNN4-BPTT-%ED%95%9C%EA%B3%84)
