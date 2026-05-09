@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-05-09
+
+👉 [LSTM(2) - GATE](https://velog.io/@doyeon789/LSTM2-GATE)
+
+**내용** : LSTM의 구성요소(셀 상태, GATE)와 각각의 GATE
+
+---
+
 ### 2026-05-08
 
 👉 [LSTM(1) - 기본개념](https://velog.io/@doyeon789/LSTM1-%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90)
