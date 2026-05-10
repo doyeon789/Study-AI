@@ -2,6 +2,14 @@
 
 ### 2026-05-09
 
+👉 [LSTM(3) - 학습방식, 한계](https://velog.io/@doyeon789/LSTM3-%ED%95%99%EC%8A%B5%EB%B0%A9%EC%8B%9D-%ED%95%9C%EA%B3%84)
+
+**내용** : LSTM의 학습방식및 한계
+
+---
+
+### 2026-05-09
+
 👉 [LSTM(2) - GATE](https://velog.io/@doyeon789/LSTM2-GATE)
 
 **내용** : LSTM의 구성요소(셀 상태, GATE)와 각각의 GATE
@@ -12,7 +20,7 @@
 
 👉 [LSTM(1) - 기본개념](https://velog.io/@doyeon789/LSTM1-%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90)
 
-**내용** : RNN의 한계(복습)과 LSTM의 기본 개념 
+**내용** : RNN의 한계(복습)과 LSTM의 기본 개념
 
 ---
 
@@ -20,7 +28,7 @@
 
 👉 [RNN(4) - BQTT, 한계](https://velog.io/@doyeon789/RNN4-BPTT-%ED%95%9C%EA%B3%84)
 
-**내용** : RNN의 학습 방식과 한계 
+**내용** : RNN의 학습 방식과 한계
 
 ---
 
