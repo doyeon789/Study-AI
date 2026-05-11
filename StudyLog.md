@@ -1,6 +1,14 @@
 # 📚 Study Log
 
-### 2026-05-09
+### 2026-05-11
+
+👉 [GRU](https://velog.io/@doyeon789/GRU)
+
+**내용** : GRU - update, reset, hidden state
+
+---
+
+### 2026-05-10
 
 👉 [LSTM(3) - 학습방식, 한계](https://velog.io/@doyeon789/LSTM3-%ED%95%99%EC%8A%B5%EB%B0%A9%EC%8B%9D-%ED%95%9C%EA%B3%84)
 
