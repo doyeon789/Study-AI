@@ -2,6 +2,14 @@
 
 ### 2026-05-11
 
+👉 [Seq2Seq(1) - 기본개념](https://velog.io/@doyeon789/Seq2Seq1-%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90)
+
+**내용** : Seq2Seq의 기본 개념, 등장 이유
+
+---
+
+### 2026-05-12
+
 👉 [GRU](https://velog.io/@doyeon789/GRU)
 
 **내용** : GRU - update, reset, hidden state
