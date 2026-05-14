@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-05-14
+
+👉 [Seq2Seq(1) - 내부구조](https://velog.io/@doyeon789/Seq2Seq-2-%EB%82%B4%EB%B6%80%EA%B5%AC%EC%A1%B0)
+
+**내용** : Seq2Seq의 내부구조, 인코더, 컨텍스트 벡터, 디코더
+
+---
+
 ### 2026-05-11
 
 👉 [Seq2Seq(1) - 기본개념](https://velog.io/@doyeon789/Seq2Seq1-%EA%B8%B0%EB%B3%B8%EA%B0%9C%EB%85%90)
