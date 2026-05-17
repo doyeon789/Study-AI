@@ -1,5 +1,11 @@
 # 📚 Study Log
 
+### 2026-05-17
+
+👉 [Seq2Seq(4) - 한계점](https://velog.io/@doyeon789/Seq2Seq-4-%ED%95%9C%EA%B3%84%EC%A0%90)
+
+**내용** : Seq2Seq의 한계점
+
 ### 2026-05-15
 
 👉 [Seq2Seq(3) - 내부구조](https://velog.io/@doyeon789/Seq2Seq-%EA%B5%90%EC%82%AC-%EA%B0%95%EC%9A%94)
