@@ -1,5 +1,11 @@
 # 📚 Study Log
 
+### 2026-05-18
+
+👉 [Attention(1) - 서론, 배경](https://velog.io/@doyeon789/Attention-%EC%84%9C%EB%A1%A0-%EB%B0%B0%EA%B2%BD)
+
+**내용** : Attention Is All You Need글의 Abstract, Introduction, Background 글 작성
+
 ### 2026-05-17
 
 👉 [Seq2Seq(4) - 한계점](https://velog.io/@doyeon789/Seq2Seq-4-%ED%95%9C%EA%B3%84%EC%A0%90)
