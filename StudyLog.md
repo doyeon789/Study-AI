@@ -1,5 +1,11 @@
 # 📚 Study Log
 
+### 2026-05-20
+
+👉 [Attention(3) - Attention](https://velog.io/@doyeon789/Attention3-Attention)
+
+**내용** : Attention Is All You Need글의 Model Architecture(3.2) 글 작성
+
 ### 2026-05-19
 
 👉 [Attention(2) - 모델 아키텍처](https://velog.io/@doyeon789/Attention2-%EB%AA%A8%EB%8D%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
