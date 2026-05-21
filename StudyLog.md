@@ -2,9 +2,19 @@
 
 ### 2026-05-20
 
+👉 [Attention(4) - FFN, Embedding, Positional Encoding](https://velog.io/@doyeon789/Attention4-FFN-Embedding-Positional-Encoding)
+
+**내용** : Attention Is All You Need글의 Position-wise Feed-Forward Networks(3.3), Embeddings and Softmax(3.4), Positional Encoding(3.5) 글 작성
+
+### 2026-05-20
+
+---
+
 👉 [Attention(3) - Attention](https://velog.io/@doyeon789/Attention3-Attention)
 
 **내용** : Attention Is All You Need글의 Model Architecture(3.2) 글 작성
+
+---
 
 ### 2026-05-19
 
@@ -12,11 +22,15 @@
 
 **내용** : Attention Is All You Need글의 Model Architecture(3.1) 글 작성
 
+---
+
 ### 2026-05-18
 
 👉 [Attention(1) - 서론, 배경](https://velog.io/@doyeon789/Attention-%EC%84%9C%EB%A1%A0-%EB%B0%B0%EA%B2%BD)
 
 **내용** : Attention Is All You Need글의 Abstract, Introduction, Background 글 작성
+
+---
 
 ### 2026-05-17
 
