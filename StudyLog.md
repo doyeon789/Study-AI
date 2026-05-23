@@ -2,6 +2,14 @@
 
 ### 2026-05-22
 
+👉 [BERT(1) - 서론, 배경](https://velog.io/@doyeon789/Text-Foundation-Model1-BERT)
+
+**내용** : BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding의 Abstract, Introduction, Related Work에 작성
+
+---
+
+### 2026-05-22
+
 👉 [Attention(5) - 학습과 마무리](https://velog.io/@doyeon789/Attention5-%ED%95%99%EC%8A%B5%EA%B3%BC-%EB%A7%88%EB%AC%B4%EB%A6%AC)
 
 **내용** : Attention Is All You Need글의 hy Self-Attention, Training, Results, Conclusion(4 ~ 7) 글 작성
