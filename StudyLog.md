@@ -1,10 +1,18 @@
 # 📚 Study Log
 
-### 2026-05-22
+### 2026-05-24
+
+👉 [BERT(2) - BERT](https://velog.io/@doyeon789/BERT2-BERT)
+
+**내용** : BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding의 3. BERT (모델 구조 + Pre-training) 작성
+
+---
+
+### 2026-05-23
 
 👉 [BERT(1) - 서론, 배경](https://velog.io/@doyeon789/Text-Foundation-Model1-BERT)
 
-**내용** : BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding의 Abstract, Introduction, Related Work에 작성
+**내용** : BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding의 Abstract, Introduction, Related Work 작성
 
 ---
 
