@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-05-25
+
+👉 [BERT(3) - 파인튜닝과 성능 분석](https://velog.io/@doyeon789/BERT3-파인튜닝과-성능-분석)
+
+**내용** : BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding의 Fine-tuning, Experiments, Ablation Studies, Conclusion 작성
+
+---
+
 ### 2026-05-24
 
 👉 [BERT(2) - BERT](https://velog.io/@doyeon789/BERT2-BERT)
