@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-05-26
+
+👉 [GPT(1) - 배경과 사전학습](https://velog.io/@doyeon789/GPT1-배경과-사전학습)
+
+**내용** : Improving Language Understanding by Generative Pre-Training (GPT)의 Abstract, Introduction, Related Work, Framework 작성
+
+---
+
 ### 2026-05-25
 
 👉 [BERT(3) - 파인튜닝과 성능 분석](https://velog.io/@doyeon789/BERT3-파인튜닝과-성능-분석)
