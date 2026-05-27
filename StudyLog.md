@@ -2,6 +2,14 @@
 
 ### 2026-05-26
 
+👉 [GPT(2) -입력 변환 방식과 실험 결과](https://velog.io/@doyeon789/GPT2-입력-변환-방식과-실험-결과-분석)
+
+**내용** : Improving Language Understanding by Generative Pre-Training (GPT)의 Task-specific Input Transformations, Experiments 작성
+
+---
+
+### 2026-05-26
+
 👉 [GPT(1) - 배경과 사전학습](https://velog.io/@doyeon789/GPT1-배경과-사전학습)
 
 **내용** : Improving Language Understanding by Generative Pre-Training (GPT)의 Abstract, Introduction, Related Work, Framework 작성
