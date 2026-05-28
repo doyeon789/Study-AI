@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-05-27
+
+👉 [GPT(3) - 전이학습 분석과 Ablation](https://velog.io/@doyeon789/GPT3-전이학습-분석과-Ablation)
+
+**내용** : Improving Language Understanding by Generative Pre-Training (GPT)의 Analysis, Ablation Studies, Conclusion 작성
+
+---
+
 ### 2026-05-26
 
 👉 [GPT(2) -입력 변환 방식과 실험 결과](https://velog.io/@doyeon789/GPT2-입력-변환-방식과-실험-결과-분석)
