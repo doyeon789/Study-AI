@@ -1,6 +1,14 @@
 # 📚 Study Log
 
-### 2026-05-27
+### 2026-05-29
+
+👉 [거대 언어 모델의 평가(1) : 평가 방식과 지표](https://velog.io/@doyeon789/Prompt-Engineering1-역할과-기본)
+
+**내용** : LM 평가가 무엇인지, 평가 방식의 종류, 주요 평가 작성
+
+---
+
+### 2026-05-28
 
 👉 [GPT(3) - 전이학습 분석과 Ablation](https://velog.io/@doyeon789/GPT3-전이학습-분석과-Ablation)
 
