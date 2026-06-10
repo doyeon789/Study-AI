@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-06-10
+
+👉 [이미지 파운데이션 모델(2) - VLM](https://velog.io/@doyeon789/%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%AA%A8%EB%8D%B8-2-VLM)
+
+**내용** : VLM, VLM 등장 배경, VLM 구조, CLIP, Flamingo, LLaVA, GPT-4V/GPT-4o 작성
+
+---
+
 ### 2026-06-08
 
 👉 [이미지 파운데이션 모델(1) - 이미지 파운데이션 모델](https://velog.io/@doyeon789/%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%AA%A8%EB%8D%B81-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%AA%A8%EB%8D%B8)
