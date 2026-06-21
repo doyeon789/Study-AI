@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-06-22
+
+👉 [VLM (2) - sVLM](https://velog.io/@doyeon789/VLM2-sVLM)
+
+**내용** : Small VLM, Small VLM 만드는 법
+
+---
+
 ### 2026-06-15
 
 👉 [VLM (1) - VLM 구조](https://velog.io/@doyeon789/VLM-1-VLM-구조)
