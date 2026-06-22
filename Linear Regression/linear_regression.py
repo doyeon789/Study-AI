@@ -44,3 +44,16 @@ print(f"\n+{'-'*50}+")
 print(f"모델이 찾아낸 기울기(slope): {model.coef_[0][0]:.3f}  (정답: 3)")
 print(f"모델이 찾아낸 절편(intercept): {model.intercept_[0]:.3f}  (정답: 5)")
 print(f"+{'-'*50}+")
+
+
+# 4. 테스트 데이터로 예측, 성능 평가 
+y_pred = model.predict(X_test)
+
+mse = mean_squared_error(y_test, y_pred) # 평균 제곱 오차 (작을수록 good)
+r2 = r2_score(y_test, y_pred) # 결정 계수 (1에 가까울수록 good)
+
+print(f"\n+{'-'*50}+")
+print(f"[성능 평가]")
+print(f"MSE (평균 제곱 오차): {mse:.3f}")
+print(f"R² (결정 계수): {r2:.3f}")
+print(f"+{'-'*50}+")
