@@ -57,3 +57,22 @@ print(f"[성능 평가]")
 print(f"MSE (평균 제곱 오차): {mse:.3f}")
 print(f"R² (결정 계수): {r2:.3f}")
 print(f"+{'-'*50}+")
+
+
+# 5. 시각화 
+plt.figure(figsize=(8, 6))
+plt.scatter(X_train, y_train, color="steelblue", alpha=0.6, label="Train data")
+plt.scatter(X_test, y_test, color="orange", alpha=0.8, label="Test data")
+
+# 학습된 모델이 그리는 직선
+X_line = np.linspace(0, 10, 100).reshape(-1, 1)
+y_line = model.predict(X_line)
+plt.plot(X_line, y_line, color="red", linewidth=2, label="Fitted line")
+
+plt.xlabel("X")
+plt.ylabel("y")
+plt.title(f"Linear Regression  (y = {model.coef_[0][0]:.2f}x + {model.intercept_[0]:.2f})")
+plt.legend()
+plt.grid(alpha=0.3)
+plt.savefig("linear_regression_result.png", dpi=120, bbox_inches="tight")
+print("\n그래프 저장: linear_regression_result.png")
