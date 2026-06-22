@@ -22,3 +22,12 @@ print(f"데이터 개수 : {n_samples}개")
 print(f"X 샘플 5개: {X[:5].flatten()}")
 print(f"y 샘플 5개: {y[:5].flatten()}")
 print(f"+{'-'*50}+")
+
+
+# 2. 학습용/테스트용 데이터 나누기
+
+# 학습(train)과 평가(test) 8:2 비율로 사용 
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=0.2, random_state=42
+)
+print(f"\n학습 데이터: {len(X_train)}개, 테스트 데이터: {len(X_test)}개")
