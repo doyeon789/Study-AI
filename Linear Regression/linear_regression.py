@@ -1,0 +1,24 @@
+"""
+선형 회귀(Linear Regression) 시초 실습
+목표 : y = 3x + 5라는 규칙에 노이즈를 섰어서 가짜 데이터를 생성후, 모델이 그 규칙을 데이터만 보고 얼마나 잘 찾는지 확인
+"""
+
+import numpy as np
+import matplotlib as plt
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_squared_error, r2_score
+
+# 1. 데이터 생성
+np.random.seed(42) # 매번 같은 결과가 나오도록 시드값 고정
+
+n_samples = 100
+X = np.random.rand(n_samples, 1) # 0 ~ 10 사이 X값 100개 
+noise = np.random.randn(n_samples, 1) * 2 #  평균 : 0, 표준편차가 2인 정규분포 노이즈 -> 데이터가 직선에서 ±2 정도 흩어짐
+y = 3*X + 5 + noise
+
+print(f"+{'-'*50}+")
+print(f"데이터 개수 : {n_samples}개")
+print(f"X 샘플 5개: {X[:5].flatten()}")
+print(f"y 샘플 5개: {y[:5].flatten()}")
+print(f"+{'-'*50}+")
