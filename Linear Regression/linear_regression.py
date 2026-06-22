@@ -14,8 +14,8 @@ from sklearn.metrics import mean_squared_error, r2_score
 np.random.seed(42) # 매번 같은 결과가 나오도록 시드값 고정
 
 n_samples = 100
-X = np.random.rand(n_samples, 1) # 0 ~ 10 사이 X값 100개 
-noise = np.random.randn(n_samples, 1) * 2 #  평균 : 0, 표준편차가 2인 정규분포 노이즈 -> 데이터가 직선에서 ±2 정도 흩어짐
+X = np.random.rand(n_samples, 1) * 10 # 0 ~ 10 사이 X값 100개 
+noise = np.random.rand(n_samples, 1) * 1 #  평균 : 0, 표준편차가 2인 정규분포 노이즈 -> 데이터가 직선에서 ±2 정도 흩어짐
 y = 3*X + 5 + noise
 
 print(f"+{'-'*50}+")
