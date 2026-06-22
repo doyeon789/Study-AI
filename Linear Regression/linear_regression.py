@@ -9,6 +9,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
 
+
 # 1. 데이터 생성
 np.random.seed(42) # 매번 같은 결과가 나오도록 시드값 고정
 
@@ -30,4 +31,16 @@ print(f"+{'-'*50}+")
 X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42
 )
-print(f"\n학습 데이터: {len(X_train)}개, 테스트 데이터: {len(X_test)}개")
+print(f"\n+{'-'*50}+")
+print(f"학습 데이터: {len(X_train)}개, 테스트 데이터: {len(X_test)}개")
+print(f"+{'-'*50}+")
+
+
+# 3. 모델 생성, 학습
+model = LinearRegression()
+model.fit(X_train, y_train) # 학습 
+
+print(f"\n+{'-'*50}+")
+print(f"모델이 찾아낸 기울기(slope): {model.coef_[0][0]:.3f}  (정답: 3)")
+print(f"모델이 찾아낸 절편(intercept): {model.intercept_[0]:.3f}  (정답: 5)")
+print(f"+{'-'*50}+")
