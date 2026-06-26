@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-06-27
+
+👉 [LLM Training(1) - Pre-training](https://velog.io/@doyeon789/LLM-Training-1-Pre-training)
+
+**내용** : Pre-training, 학습법, 한계
+
+---
+
 ### 2026-06-22
 
 👉 [VLM (2) - sVLM](https://velog.io/@doyeon789/VLM2-sVLM)
