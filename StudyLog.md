@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-06-29
+
+👉 [LLM Training(2) - Continued Pre-training(CPT)](https://velog.io/@doyeon789/LLM-Training-2-Continued-Pre-training-CPT)
+
+**내용** : CPT, CPT 수행 이유, CPT 수행 케이스, 대표 사례
+
+---
+
 ### 2026-06-27
 
 👉 [LLM Training(1) - Pre-training](https://velog.io/@doyeon789/LLM-Training-1-Pre-training)
