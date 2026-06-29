@@ -10,7 +10,7 @@
 
 ### 2026-06-22
 
-👉 [VLM (2) - sVLM](https://velog.io/@doyeon789/VLM2-sVLM)
+👉 [VLM(2) - sVLM](https://velog.io/@doyeon789/VLM2-sVLM)
 
 **내용** : Small VLM, Small VLM 만드는 법
 
@@ -18,7 +18,7 @@
 
 ### 2026-06-15
 
-👉 [VLM (1) - VLM 구조](https://velog.io/@doyeon789/VLM-1-VLM-구조)
+👉 [VLM(1) - VLM 구조](https://velog.io/@doyeon789/VLM-1-VLM-구조)
 
 **내용** : VLM의 구조 (Vision Encoder, Projector, LLM)
 
@@ -42,7 +42,7 @@
 
 ### 2026-06-05
 
-👉 [이미지 딥러닝 모델 학습 전략 (2)](https://velog.io/@doyeon789/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8-%ED%95%99%EC%8A%B5-%EC%A0%84%EB%9E%B5-1-ni49s3fc)
+👉 [이미지 딥러닝 모델 학습 전략(2)](https://velog.io/@doyeon789/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8-%ED%95%99%EC%8A%B5-%EC%A0%84%EB%9E%B5-1-ni49s3fc)
 
 **내용** : 배치 정규화, 데이터 증강, Early Stopping, 학습률 스케줄링 작성
 
@@ -50,7 +50,7 @@
 
 ### 2026-06-03
 
-👉 [이미지 딥러닝 모델 학습 전략 (1)](https://velog.io/@doyeon789/이미지-딥러닝-모델-학습-전략-1)
+👉 [이미지 딥러닝 모델 학습 전략(1)](https://velog.io/@doyeon789/이미지-딥러닝-모델-학습-전략-1)
 
 **내용** :  오버피팅과 언더피팅, 정구화 기법(Regulaization), 드롭아웃 작성
 
