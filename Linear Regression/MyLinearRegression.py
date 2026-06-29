@@ -87,3 +87,15 @@ class MyLinearRegression:
                 )
                 
         return self
+    
+    def predict(self, X):
+        """_summary_
+
+        Args:
+            X (_type_): _description_
+
+        Returns:
+            _type_: _description_
+        """
+        
+        return X @ self.coef_ + self.intercept_
