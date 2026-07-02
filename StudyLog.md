@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-07-03
+
+👉 [LLM Training(3) - Post-training& Fine-tuning](https://velog.io/@doyeon789/LLM-Training3-Post-training-Fine-tuning)
+
+**내용** : Post-training, Fine-tuning, Post-training 기법 소개, PEFT
+
+---
+
 ### 2026-06-29
 
 👉 [LLM Training(2) - Continued Pre-training(CPT)](https://velog.io/@doyeon789/LLM-Training-2-Continued-Pre-training-CPT)
