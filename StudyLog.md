@@ -2,6 +2,14 @@
 
 ### 2026-07-03
 
+👉 [LLM Training (4) - SFT & Instruction Tuning](https://velog.io/@doyeon789/LLM-Training-4-SFT-Instruction-Tuning)
+
+**내용** : SFT, SFT등장, Instruction tuning, self-instruct, SFT의 한계
+
+---
+
+### 2026-07-03
+
 👉 [LLM Training(3) - Post-training& Fine-tuning](https://velog.io/@doyeon789/LLM-Training3-Post-training-Fine-tuning)
 
 **내용** : Post-training, Fine-tuning, Post-training 기법 소개, PEFT
