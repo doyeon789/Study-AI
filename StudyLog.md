@@ -2,6 +2,14 @@
 
 ### 2026-07-06
 
+👉 [LLM Training (6) - DPO](https://velog.io/@doyeon789/LLM-Training-6-DPO)
+
+**내용** : DPO, DPO의 등장, DPO 학습 방식, DPO의 한계 
+
+---
+
+### 2026-07-06
+
 👉 [LLM Training(5) - RLHF](https://velog.io/@doyeon789/LLM-Training-5-RLHF)
 
 **내용** : RLHF, RLHF의 등장, RLHF 학습 방식, RLHF의 한계 
