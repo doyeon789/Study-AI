@@ -1,8 +1,16 @@
 # 📚 Study Log
 
-### 2026-07-03
+### 2026-07-06
 
-👉 [LLM Training (4) - SFT & Instruction Tuning](https://velog.io/@doyeon789/LLM-Training-4-SFT-Instruction-Tuning)
+👉 [LLM Training(5) - RLHF](https://velog.io/@doyeon789/LLM-Training-5-RLHF)
+
+**내용** : SFT, SFT등장, Instruction tuning, self-instruct, SFT의 한계
+
+---
+
+### 2026-07-05
+
+👉 [LLM Training(4) - SFT & Instruction Tuning](https://velog.io/@doyeon789/LLM-Training-4-SFT-Instruction-Tuning)
 
 **내용** : SFT, SFT등장, Instruction tuning, self-instruct, SFT의 한계
 
