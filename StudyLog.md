@@ -4,7 +4,7 @@
 
 👉 [LLM Training(5) - RLHF](https://velog.io/@doyeon789/LLM-Training-5-RLHF)
 
-**내용** : SFT, SFT등장, Instruction tuning, self-instruct, SFT의 한계
+**내용** : RLHF, RLHF의 등장, RLHF 학습 방식, RLHF의 한계 
 
 ---
 
