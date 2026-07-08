@@ -1,6 +1,14 @@
 # 📚 Study Log
 
-### 2026-07-06
+### 2026-07-08
+
+👉 [LLM Training (7) - GRPO](https://velog.io/@doyeon789/LLM-Training-7-GRPO)
+
+**내용** : GRPO, GRPO의 등장, PPO와 GRPO의 차이, DeepSeek-R1, GRPO의 의미
+
+---
+
+### 2026-07-07
 
 👉 [LLM Training (6) - DPO](https://velog.io/@doyeon789/LLM-Training-6-DPO)
 
