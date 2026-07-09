@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-07-09
+
+👉 [LLM Training (8) - PEFT : LoRA / QLoRA](https://velog.io/@doyeon789/LLM-Training-8-PEFT-LoRA-QLoRA)
+
+**내용** : PEFT, PEFT 등장, LoRA, QLoRA, LoRa와 QLoRA차이, PEFT의 한계
+
+---
+
 ### 2026-07-08
 
 👉 [LLM Training (7) - GRPO](https://velog.io/@doyeon789/LLM-Training-7-GRPO)
