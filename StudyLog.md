@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-07-10
+
+👉 [LLM Inference (1) - Inference 개요](https://velog.io/@doyeon789/LLM-Inference-1-Inference-%EA%B0%9C%EC%9A%94)
+
+**내용** : Inference, LLM이 문장을 만드는 방식, 전체적인 흐름
+
+---
+
 ### 2026-07-09
 
 👉 [LLM Training (8) - PEFT : LoRA / QLoRA](https://velog.io/@doyeon789/LLM-Training-8-PEFT-LoRA-QLoRA)
