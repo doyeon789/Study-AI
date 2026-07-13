@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-07-13
+
+👉 [LLM Inference (2) - Decoding](https://velog.io/@doyeon789/LLM-Inference-2-Decoding)
+
+**내용** : Decoding, Greedy Search, Sampling, Beam Search
+
+---
+
 ### 2026-07-10
 
 👉 [LLM Inference (1) - Inference 개요](https://velog.io/@doyeon789/LLM-Inference-1-Inference-%EA%B0%9C%EC%9A%94)
