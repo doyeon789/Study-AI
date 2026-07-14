@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-07-15
+
+👉 [LLM Inference (3) - Temperature](https://velog.io/@doyeon789/LLM-Inference-3-Temperature)
+
+**내용** : Temperature, Temperature 상태
+
+---
+
 ### 2026-07-13
 
 👉 [LLM Inference (2) - Decoding](https://velog.io/@doyeon789/LLM-Inference-2-Decoding)
