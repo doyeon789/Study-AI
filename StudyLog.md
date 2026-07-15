@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-07-16
+
+👉 [LLM Inference (4) - Top-k / Top-p Sampling](https://velog.io/@doyeon789/LLM-Inference-4-Top-k-Top-p-Sampling)
+
+**내용** : Top-k Sampling, Top-p Sampling
+
+---
+
 ### 2026-07-15
 
 👉 [LLM Inference (3) - Temperature](https://velog.io/@doyeon789/LLM-Inference-3-Temperature)
