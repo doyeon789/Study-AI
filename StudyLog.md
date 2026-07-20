@@ -1,5 +1,13 @@
 # 📚 Study Log
 
+### 2026-07-20
+
+👉 [LLM Inference (5) - KV Cache](https://velog.io/@doyeon789/LLM-Inference-5-KV-Cache)
+
+**내용** : KV Cache, Key/Value, KV Cache의 필요성, KV Cache의 장단점 
+
+---
+
 ### 2026-07-16
 
 👉 [LLM Inference (4) - Top-k / Top-p Sampling](https://velog.io/@doyeon789/LLM-Inference-4-Top-k-Top-p-Sampling)
