@@ -1,5 +1,14 @@
 # 📚 Study Log
 
+
+### 2026-07-21
+
+👉 [LLM Inference (6) - Quantization](https://velog.io/@doyeon789/LLM-Inference-6-Quantization)
+
+**내용** : Quantization,  Quantization 종류, Quantization 장단점, 1.58-Quantization
+
+---
+
 ### 2026-07-20
 
 👉 [LLM Inference (5) - KV Cache](https://velog.io/@doyeon789/LLM-Inference-5-KV-Cache)
