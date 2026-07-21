@@ -1,6 +1,14 @@
 # 📚 Study Log
 
 
+### 2026-07-22
+
+👉 [LLM Inference (7) - FlashAttention](https://velog.io/@doyeon789/LLM-Inference-8-FlashAttention)
+
+**내용** : FlashAttention,  GPU 메모리 , Attention 문제점, FlashAttention 장단점
+
+---
+
 ### 2026-07-21
 
 👉 [LLM Inference (6) - Quantization](https://velog.io/@doyeon789/LLM-Inference-6-Quantization)
