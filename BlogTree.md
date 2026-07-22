@@ -3,7 +3,7 @@
 > 실제 Velog **AI 이론 공부해보기** 시리즈에 등록된 글만 정리했습니다.  
 > 총 63개 글이며, 각 글 제목을 클릭하면 해당 게시글로 이동합니다.
 >
-> <a href="">AI 이론 공부해보기 시리즈 전체 보기</a>
+> <a href="https://velog.io/@doyeon789/series/AI-%EC%9D%B4%EB%A1%A0-%EA%B3%B5%EB%B6%80%ED%95%B4%EB%B3%B4%EA%B8%B0">AI 이론 공부해보기 시리즈 전체 보기</a>
 
 ---
 
@@ -146,7 +146,7 @@ LLM Training
 │
 ├── <a href="https://velog.io/@doyeon789/LLM-Training-1-Pre-training">LLM Training(1) - Pre-training</a>
 ├── <a href="https://velog.io/@doyeon789/LLM-Training-2-Continued-Pre-training-CPT">LLM Training(2) - Continued Pre-training (CPT)</a>
-├── <a href=https://velog.io/@doyeon789/LLM-Training3-Post-training-Fine-tuning"">LLM Training(3) - Post-training&amp; Fine-tuning</a>
+├── <a href="https://velog.io/@doyeon789/LLM-Training3-Post-training-Fine-tuning">LLM Training(3) - Post-training&amp; Fine-tuning</a>
 ├── <a href="https://velog.io/@doyeon789/LLM-Training-4-SFT-Instruction-Tuning">LLM Training(4) - SFT &amp; Instruction Tuning</a>
 ├── <a href="https://velog.io/@doyeon789/LLM-Training-5-RLHF">LLM Training(5) - RLHF</a>
 ├── <a href="https://velog.io/@doyeon789/LLM-Training-6-DPO">LLM Training (6) - DPO</a>
