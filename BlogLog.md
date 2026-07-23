@@ -1,6 +1,14 @@
 # 📚 Study Log
 
 
+### 2026-07-23
+
+👉 [LLM Inference (8) - PagedAttentionn](https://velog.io/@doyeon789/LLM-Inference-8-PagedAttentionn)
+
+**내용** : PagedAttention, KV Cache 문제점 Paged, PagedAttention 동작방식, PagedAttention 장단점
+
+---
+
 ### 2026-07-22
 
 👉 [LLM Inference (7) - FlashAttention](https://velog.io/@doyeon789/LLM-Inference-8-FlashAttention)
