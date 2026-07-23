@@ -3,9 +3,17 @@
 
 
 
+### 2026-07-24
+
+👉 [LLM Inference (9) - Continuous Batching](https://velog.io/@doyeon789/LLM-Inference-9-Continuous-Batching)
+
+**내용** : PagedAttention, KV Cache 문제점 Paged, PagedAttention 동작방식, PagedAttention 장단점
+
+---
+
 ### 2026-07-23
 
-👉 [LLM Inference (8) - PagedAttentionn](https://velog.io/@doyeon789/LLM-Inference-8-PagedAttentionn)
+👉 [LLM Inference (8) - PagedAttention](https://velog.io/@doyeon789/LLM-Inference-8-PagedAttention)
 
 **내용** : PagedAttention, KV Cache 문제점 Paged, PagedAttention 동작방식, PagedAttention 장단점
 
