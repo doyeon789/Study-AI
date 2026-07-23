@@ -167,5 +167,6 @@ LLM Inference
 ├── <a href="https://velog.io/@doyeon789/LLM-Inference-4-Top-k-Top-p-Sampling">LLM Inference (4) - Top-k / Top-p Sampling</a>
 ├── <a href="https://velog.io/@doyeon789/LLM-Inference-5-KV-Cache">LLM Inference (5) - KV Cache</a>
 ├── <a href="https://velog.io/@doyeon789/LLM-Inference-6-Quantization">LLM Inference (6) - Quantization</a>
-└── <a href="https://velog.io/@doyeon789/LLM-Inference-7-FlashAttention">LLM Inference (7) - FlashAttention</a>
+├── <a href="https://velog.io/@doyeon789/LLM-Inference-7-FlashAttention">LLM Inference (7) - FlashAttention</a>
+└── <a href="https://velog.io/@doyeon789/LLM-Inference-8-PagedAttention">LLM Inference (8) - PagedAttention</a>
 </pre>
