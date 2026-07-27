@@ -3,11 +3,19 @@
 
 
 
+### 2026-07-25
+
+👉 [LLM Inference (10) - Speculative Decoding](https://velog.io/@doyeon789/LLM-Inference-10-Speculative-Decoding)
+
+**내용** : Autoregressive Decoding의 문제점, Speculative Decoding, Draft Model, Target Model
+
+---
+
 ### 2026-07-24
 
 👉 [LLM Inference (9) - Continuous Batching](https://velog.io/@doyeon789/LLM-Inference-9-Continuous-Batching)
 
-**내용** : PagedAttention, KV Cache 문제점 Paged, PagedAttention 동작방식, PagedAttention 장단점
+**내용** : Batching, Static Batching, Continuous Batching, 동작 방식, 장단점
 
 ---
 

@@ -169,5 +169,6 @@ LLM Inference
 ├── <a href="https://velog.io/@doyeon789/LLM-Inference-6-Quantization">LLM Inference (6) - Quantization</a>
 ├── <a href="https://velog.io/@doyeon789/LLM-Inference-7-FlashAttention">LLM Inference (7) - FlashAttention</a>
 ├── <a href="https://velog.io/@doyeon789/LLM-Inference-8-PagedAttention">LLM Inference (8) - PagedAttention</a>
-└── <a href="https://velog.io/@doyeon789/LLM-Inference-9-Continuous-Batching">LLM Inference (9) - Continuous Batching</a>
+├── <a href="https://velog.io/@doyeon789/LLM-Inference-9-Continuous-Batching">LLM Inference (9) - Continuous Batching</a>
+└── <a href="https://velog.io/@doyeon789/LLM-Inference-9-Speculative-Decoding">LLM Inference (10) - Speculative Decoding</a>
 </pre>
