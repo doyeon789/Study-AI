@@ -3,6 +3,14 @@
 
 
 
+### 2026-07-26
+
+👉 [LLM Inference (11) - LLM Serving](https://velog.io/@doyeon789/LLM-Inference-11-LLM-Serving)
+
+**내용** : LLM Serving, Prefill, Decode, 성능 지표, 장단점 
+
+---
+
 ### 2026-07-25
 
 👉 [LLM Inference (10) - Speculative Decoding](https://velog.io/@doyeon789/LLM-Inference-10-Speculative-Decoding)
