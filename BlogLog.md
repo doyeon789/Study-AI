@@ -3,7 +3,14 @@
 
 
 
-### 2026-07-26
+### 2026-07-29
+
+👉 [RAG (1) - RAG](https://velog.io/@doyeon789/RAG-1-RAG란-무엇인가)
+
+**내용** : RAG, LLM의 한계, 
+---
+
+### 2026-07-28
 
 👉 [LLM Inference (11) - LLM Serving](https://velog.io/@doyeon789/LLM-Inference-11-LLM-Serving)
 
@@ -11,7 +18,7 @@
 
 ---
 
-### 2026-07-25
+### 2026-07-27
 
 👉 [LLM Inference (10) - Speculative Decoding](https://velog.io/@doyeon789/LLM-Inference-10-Speculative-Decoding)
 
