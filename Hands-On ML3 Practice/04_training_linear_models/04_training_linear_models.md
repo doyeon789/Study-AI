@@ -471,9 +471,9 @@ elastic_net.fit(X, y)
 best_valid_rmse = float("inf")
 
 for epoch in range(n_epochs):
-    sgd_reg.partial_fit(X_train_prepared, y_train)
+    sgd_reg.partial_fit(X_train_prep, y_train)
 
-    y_valid_predict = sgd_reg.predict(X_valid_prepared)
+    y_valid_predict = sgd_reg.predict(X_valid_prep)
     valid_error = mean_squared_error(
         y_valid,
         y_valid_predict,
@@ -790,28 +790,6 @@ softmax_reg.fit(X_train, y_train)
 
 ---
 
-## 14. 복습 질문
-
-1. 선형 회귀에서 $\theta_0$과 $\theta_i$는 각각 무엇을 의미하는가?
-2. MSE와 RMSE를 최소화하는 파라미터가 같은 이유는 무엇인가?
-3. 정규 방정식이 작동하기 어려운 경우에도 유사역행렬을 사용할 수 있는 이유는 무엇인가?
-4. 특성 수가 많을 때 정규 방정식보다 경사 하강법이 유리할 수 있는 이유는 무엇인가?
-5. 학습률이 너무 작거나 너무 클 때 각각 어떤 현상이 발생하는가?
-6. 배치·확률적·미니배치 경사 하강법은 한 스텝에 사용하는 데이터가 어떻게 다른가?
-7. `PolynomialFeatures`를 사용해도 모델을 선형 모델이라고 부르는 이유는 무엇인가?
-8. 학습 곡선에서 과소적합과 과대적합은 각각 어떻게 나타나는가?
-9. 릿지와 라쏘는 가중치에 어떤 서로 다른 영향을 주는가?
-10. 라쏘가 특성 선택을 수행한다고 말할 수 있는 이유는 무엇인가?
-11. 엘라스틱넷의 혼합 비율 $r$이 0과 1일 때 각각 어떤 모델이 되는가?
-12. 조기 종료에서 검증 오차가 다시 증가하는 것은 무엇을 의미하는가?
-13. 로지스틱 함수가 분류 확률을 표현하기에 적합한 이유는 무엇인가?
-14. 로지스틱 회귀의 결정 경계와 $\boldsymbol{\theta}^{\top}\mathbf{x}$의 관계는 무엇인가?
-15. 로그 손실이 확신에 찬 오답에 큰 비용을 부여하는 이유는 무엇인가?
-16. 소프트맥스 함수가 클래스별 점수를 확률로 바꾸는 과정은 무엇인가?
-17. 이진 로지스틱 회귀와 소프트맥스 회귀의 차이는 무엇인가?
-
----
-
-## 15. 한 문장 요약
+## 14. 한 문장 요약
 
 > 모델 훈련은 비용 함수를 최소화하는 파라미터를 찾는 과정이며, 데이터와 모델의 복잡도에 맞는 최적화 방법과 규제를 선택하고 학습 곡선으로 일반화 성능을 확인해야 합니다.
