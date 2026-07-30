@@ -181,5 +181,6 @@ LLM Inference
 <pre>
 RAG
 │
+├── <a href="https://velog.io/@doyeon789/RAG-2-Embedding">RAG (2) - Embedding</a>
 └── <a href="https://velog.io/@doyeon789/RAG-1-RAG란-무엇인가">RAG (1) - RAG</a>
 </pre>

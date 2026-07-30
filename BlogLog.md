@@ -3,6 +3,14 @@
 
 
 
+### 2026-07-30
+
+👉 [RAG (2) - Embedding](https://velog.io/@doyeon789/RAG-2-Embedding)
+
+**내용** : Embedding, Embedding 종류
+ 
+---
+
 ### 2026-07-29
 
 👉 [RAG (1) - RAG](https://velog.io/@doyeon789/RAG-1-RAG란-무엇인가)
