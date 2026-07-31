@@ -3,6 +3,14 @@
 
 
 
+### 2026-07-31
+
+👉 [RAG (3) - Similarity Search](https://velog.io/@doyeon789/RAG-3-Similarity-Search)
+
+**내용** : Similarity Search, Cosine Similarity, Dot Product, Euclidean Distance, Top-k Search 
+ 
+---
+
 ### 2026-07-30
 
 👉 [RAG (2) - Embedding](https://velog.io/@doyeon789/RAG-2-Embedding)
