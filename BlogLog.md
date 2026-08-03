@@ -3,6 +3,14 @@
 
 
 
+### 2026-08-03
+
+👉 [RAG (4) - Chunking](https://velog.io/@doyeon789/RAG-4-Chunking)
+
+**내용** : Chunking, Chunk Size, Chunk Overlap, Chunking 방법
+ 
+---
+
 ### 2026-07-31
 
 👉 [RAG (3) - Similarity Search](https://velog.io/@doyeon789/RAG-3-Similarity-Search)
