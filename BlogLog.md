@@ -3,6 +3,14 @@
 
 
 
+### 2026-08-04
+
+👉 [RAG (5) - Vector Database](https://velog.io/@doyeon789/RAG-5-Vector-Database)
+
+**내용** : Vector Database, 일반 Database와의 차이, Vector Index, Exact Search, ANN Search, Metadata Filtering, 장단점
+
+---
+
 ### 2026-08-03
 
 👉 [RAG (4) - Chunking](https://velog.io/@doyeon789/RAG-4-Chunking)
