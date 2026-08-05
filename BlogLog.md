@@ -3,6 +3,14 @@
 
 
 
+### 2026-08-05
+
+👉 [RAG (6) - Retriever & Reranker](https://velog.io/@doyeon789/RAG-6-Retriever-Reranker)
+
+**내용** : Retriever, Bi-Encoder, Reranker, Cross-Encoder, 동작 과정, 장단점
+
+---
+
 ### 2026-08-04
 
 👉 [RAG (5) - Vector Database](https://velog.io/@doyeon789/RAG-5-Vector-Database)
