@@ -3,6 +3,14 @@
 
 
 
+### 2026-08-10
+
+👉 [RAG (7) - Hybrid Search](https://velog.io/@doyeon789/RAG-7-Hybrid-Search)
+
+**내용** : Keyword Search, Vector Search, Hybrid Search, Weighted Score, RRF, Reranker, 장단점
+
+---
+
 ### 2026-08-05
 
 👉 [RAG (6) - Retriever & Reranker](https://velog.io/@doyeon789/RAG-6-Retriever-Reranker)

@@ -186,5 +186,6 @@ RAG
 ├── <a href="https://velog.io/@doyeon789/RAG-3-Similarity-Search">RAG (3) - Similarity Search</a>
 ├── <a href="https://velog.io/@doyeon789/RAG-4-Chunking">RAG (4) - Chunking</a>
 ├── <a href="https://velog.io/@doyeon789/RAG-5-Vector-Database">RAG (5) - Vector Database</a>
-└── <a href="https://velog.io/@doyeon789/RAG-6-Retriever-Reranker">RAG (6) - Retriever &amp; Reranker</a>
+├── <a href="https://velog.io/@doyeon789/RAG-6-Retriever-Reranker">RAG (6) - Retriever &amp; Reranker</a>
+└── <a href="https://velog.io/@doyeon789/RAG-7-Hybrid-Search">RAG (7) - Hybrid Search</a>
 </pre>
