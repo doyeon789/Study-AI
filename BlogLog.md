@@ -3,6 +3,14 @@
 
 
 
+### 2026-08-11
+
+👉 [RAG (8) - RAG의 한계와 Advanced RAG](https://velog.io/@doyeon789/RAG-8-RAG의-한계와-Advanced-RAG-1vhk2zzf)
+
+**내용** : 기본 RAG의 한계, Query Transformation, Query Rewriting, Multi-Query, HyDE, Context Compression, 장단점
+
+---
+
 ### 2026-08-10
 
 👉 [RAG (7) - Hybrid Search](https://velog.io/@doyeon789/RAG-7-Hybrid-Search)
