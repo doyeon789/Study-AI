@@ -188,5 +188,6 @@ RAG
 ├── <a href="https://velog.io/@doyeon789/RAG-5-Vector-Database">RAG (5) - Vector Database</a>
 ├── <a href="https://velog.io/@doyeon789/RAG-6-Retriever-Reranker">RAG (6) - Retriever &amp; Reranker</a>
 ├── <a href="https://velog.io/@doyeon789/RAG-7-Hybrid-Search">RAG (7) - Hybrid Search</a>
-└── <a href="https://velog.io/@doyeon789/RAG-8-RAG의-한계와-Advanced-RAG-1vhk2zzf">RAG (8) - RAG의 한계와 Advanced RAG</a>
+├── <a href="https://velog.io/@doyeon789/RAG-8-RAG의-한계와-Advanced-RAG-1vhk2zzf">RAG (8) - RAG의 한계와 Advanced RAG</a>
+└── <a href="https://velog.io/@doyeon789/RAG-9-Agentic-RAG">RAG (9) - Agentic RAG</a>
 </pre>

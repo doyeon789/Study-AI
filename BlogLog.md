@@ -3,6 +3,14 @@
 
 
 
+### 2026-08-14
+
+👉 [RAG (9) - Agentic RAG](https://velog.io/@doyeon789/RAG-9-Agentic-RAG)
+
+**내용** : Agentic RAG, 검색 여부 판단, Tool 선택, 반복 검색, 검색 결과 평가, 동작 방식, 장단점
+
+---
+
 ### 2026-08-11
 
 👉 [RAG (8) - RAG의 한계와 Advanced RAG](https://velog.io/@doyeon789/RAG-8-RAG의-한계와-Advanced-RAG-1vhk2zzf)
