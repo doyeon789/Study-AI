@@ -15,9 +15,11 @@ AI를 공부하며 남기는 기록 저장소입니다.
 
 | Path | Description |
 | --- | --- |
-| [StudyLog.md](./StudyLog.md) | 날짜별 학습 기록과 Velog 글 링크 |
+| [BlogLog.md](./BlogLog.md) | 날짜별 학습 기록과 Velog 글 링크 |
+| [BlogTree.md](./BlogTree.md) | Velog 시리즈 글 목차 |
 | [Linear Regression](./Linear%20Regression/LinearRegression.md) | 선형 회귀 개념 정리와 간단한 구현 실습 |
 | [Hands-On ML3 Practice](./Hands-On%20ML3%20Practice/README_Hands_ON_ML3_PRACTICE.md) | 『핸즈온 머신러닝 3판』 기반 실습 |
+| [RAG](./RAG/embedding) | 임베딩과 유사도 기반 RAG 실습 |
 
 ## Stack
 
